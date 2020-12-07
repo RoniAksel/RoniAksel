@@ -6,6 +6,9 @@ I am currently developing tools that help me do my job better, and hopefully i c
 - ⚡ Fun fact: back in 2007 i used to manage a gaming website called iGamer (R.I.P).
 - 🌱 I’m currently learning JS
 
+
+ ![](https://media.giphy.com/media/l3USXnPh1Utg3gd9mU/giphy.gif)
+
 <!--
 **RoniAksel/RoniAksel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
