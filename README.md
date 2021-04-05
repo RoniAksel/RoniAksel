@@ -15,9 +15,14 @@ I am currently developing tools that would help me do my job better, and hopeful
 
 
 Markup : <details>
-           <summary>Title 1</summary>
-           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+           <summary>Tools and Programming Languages </summary>
+           <p>Javascript</p>
+           <p>React</p>
+           <p> Node.js </p>
+           <p> HTML&CSS <p>
          </details>
+         
+         
  ![](https://media.giphy.com/media/l3USXnPh1Utg3gd9mU/giphy.gif)
 
 <!--
