@@ -13,6 +13,11 @@ I am currently developing tools that would help me do my job better, and hopeful
 - 🌱 I’m currently learning Javascript, React, Node.js.
 - ⚡ Fun fact: back in 2007 i co-found a gaming website called iGamer (R.I.P), which at its peak was visted by hundred of users each day.
 
+
+Markup : <details>
+           <summary>Title 1</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
  ![](https://media.giphy.com/media/l3USXnPh1Utg3gd9mU/giphy.gif)
 
 <!--
