@@ -14,15 +14,7 @@ I am currently developing tools that would help me do my job better, and hopeful
 - ⚡ Fun fact: back in 2007 i co-found a gaming website called iGamer (R.I.P), which at its peak was visted by hundred of users each day.
 
 
-Markup : <details>
-           <summary>Tools and Programming Languages </summary>
-           <p>Javascript</p>
-           <p>React</p>
-           <p> Node.js </p>
-           <p> HTML&CSS <p>
-         </details>
-         
-         
+
  ![](https://media.giphy.com/media/l3USXnPh1Utg3gd9mU/giphy.gif)
 
 <!--
