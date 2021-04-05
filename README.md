@@ -1,8 +1,9 @@
 ### Hi there 👋
+Lawyer and Frontend Developer 
+ =============
 My name is Roni Akselrod and I'm a Lawyer, and from time to time i write stuff.
 I am currently developing tools that would help me do my job better, and hopefully i can find the path to share my legal knowledge using my technical knowledge with the world :)
 
-Markup :  ## Lawyer ##
 
 
 - 📫 How to reach me: roniaksel@gmail.com or my work email akselrodr@herzoglaw.co.il
