@@ -1,7 +1,7 @@
 Hi there 👋
 =============
 
-Lawyer and Junior Developer 
+Lawyer and Junior Full Stack Developer 
 ---------------
 
 My name is Roni Akselrod and I'm a Lawyer, and from time to time i write stuff.
@@ -10,7 +10,7 @@ I am currently developing tools that would help me do my job better, and hopeful
 
 
 - 📫 How to reach me: roniaksel@gmail.com or my work email akselrodr@herzoglaw.co.il
-- 🌱 I’m currently learning Javascript, React, Node.js.
+- 🌱 My Stack: React, Node.js, MongoDB, Express, Javascript, HTML5, CSS3, SCSS, Styled-Components, Redux Toolkit.
 - ⚡ Fun fact: back in 2007 i co-found a gaming website called iGamer (R.I.P), which at its peak was visted by hundred of users each day.
 
 
