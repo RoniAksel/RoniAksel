@@ -10,7 +10,7 @@ I am currently developing tools that would help me do my job better, and hopeful
 
 
 - 📫 How to reach me: roniaksel@gmail.com or my work email akselrodr@herzoglaw.co.il
-- 🌱 My Stack: React, Node.js, MongoDB, Express, Javascript, HTML5, CSS3, SCSS, Styled-Components, Redux Toolkit.
+- 🌱 My Stack: React, Angular, Node.js, Express, MongoDB, Express, Javascript, HTML5, CSS3, SCSS, Styled-Components, Redux Toolkit.
 - ⚡ Fun fact: back in 2007 i co-found a gaming website called iGamer (R.I.P), which at its peak was visted by hundred of users each day.
 
 
