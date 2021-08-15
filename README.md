@@ -4,7 +4,7 @@ Hi there 👋
 Lawyer and Junior Full Stack Developer 
 ---------------
 
-My name is Roni Akselrod and I'm a Lawyer, and from time to time i write stuff.
+My name is Roni Akselrod and I'm a Lawyer, and from time to time i code stuff.
 I am currently developing tools that would help me do my job better, and hopefully i can find the path to share my legal knowledge using my technical knowledge with the world :)
 
 
