@@ -1,7 +1,7 @@
 Hi there 👋
 =============
 
-Lawyer and Junior Full Stack Developer 
+Legal Counsel and Junior Full Stack Developer 
 ---------------
 
 My name is Roni Akselrod and I'm a Marketing & Tech Legal Counsel at monday.com, and from time to time i code stuff.
